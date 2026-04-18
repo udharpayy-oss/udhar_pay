@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889734628123",
+    "project_id": "udharifaam",
+    "storage_bucket": "udharifaam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889734628123:android:6f547b57dd2b0f0ae949be",
+        "android_client_info": {
+          "package_name": "com.udharpay.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgto0kM1lZ4R--Zcs_q_oQFiMqAArsGAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
